@@ -9,7 +9,7 @@ tags = ['diy','lifestyle']
 
 <!-- # JB Welding a front bumper  -->
 
-~[patio-1](./photos/patio-1.jpg)
+![patio-1](./photos/patio-1.jpg)
 
 Even in the heat a nice outdoor space can be a reprieve from every day life.  
 
