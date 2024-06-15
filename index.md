@@ -1,5 +1,5 @@
 +++
-title =  "Making an Outdoor Living Room"
+title =  "Make an Outdoor Living Room"
 date = "2024-06-13"
 description = "Making an outdoor space to kick it"
 author = "Justin Napolitano"
@@ -101,3 +101,8 @@ I take my shoes off when I enter my home.  Its the right way to do it. So keep s
 #### That tidy shoe line
 
 ![shoes](./photos/shoes.jpg)
+
+
+## Enjoy
+
+So this space is now protected from the sun. It is organized. And it is tidy. It is a good spot to store your bike. It is a good spot to cook. It is a good spot to sit. It is good. 
