@@ -50,7 +50,7 @@ I tie off the anchor side side with a clove hitch and some half hitches to keep 
 
 The other side I tie off with a constrictor and a truckers hitch. I'll detail that in another post that'll be linked here. 
 
-## Pull the tarp over the ridge line
+### Pull the tarp over the ridge line
 
 Pull your tarp over the ridge line. There are a ton of variations, but I chose an oblong diamond shaped pattern to better fit my location.
 
@@ -75,6 +75,10 @@ You don't really need a table. Before I bought one, I just squated on the ground
 
 I just have a little jinyu portable stove that I bought years ago for hot pot.  Now I use it as my primary to avoid stinking up my house with curry and five spice powder. 
 
+#### Make a heat shield
+
+I created a little heat shield for the stove by cutting a cardboard box. I then wrapped it in aluminum foil. I taped the edges to create little hinges to close it up when not cooking. This is important because it protects the table, the walls, and the rice cooker.  
+
 ### Set up the Rice Cooker
 
 It is absolutely necessary
@@ -82,7 +86,7 @@ It is absolutely necessary
 
 ### Set up the boiler
 
-A water boiler is used to make sure all of the water (especialy the tap water) is clean before drinking or cooking. A few liters a day will be good for you.  
+A water boiler is used to make sure all of the water (especially the tap water) is clean before drinking or cooking. A few liters a day will be good for you.  
 
 ### Organize your things
 
