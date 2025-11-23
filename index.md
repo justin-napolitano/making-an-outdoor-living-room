@@ -1,104 +1,65 @@
-+++
-title =  "Making an Outdoor Living Room"
-date = "2024-06-13"
-description = "Making an outdoor space to kick it"
-author = "Justin Napolitano"
-tags = ['diy','lifestyle']
-+++
+---
+slug: "github-making-an-outdoor-living-room"
+title: "making-an-outdoor-living-room"
+repo: "justin-napolitano/making-an-outdoor-living-room"
+githubUrl: "https://github.com/justin-napolitano/making-an-outdoor-living-room"
+generatedAt: "2025-11-23T09:17:06.685857Z"
+source: "github-auto"
+---
 
 
-<!-- # JB Welding a front bumper  -->
+# Making an Outdoor Living Room: Technical Reference
 
-~[patio-1](./photos/patio-1.jpg)
+## Motivation
 
-Even in the heat a nice outdoor space can be a reprieve from every day life.  
+The project addresses the need for a functional outdoor space that provides protection from sun exposure and facilitates outdoor cooking. The motivation stems from practical concerns: avoiding UV damage to personal belongings and oneself, and managing cooking smells and heat.
 
+## Problem Statement
 
+Creating an outdoor living area requires a shelter that is easy to set up, durable, and adaptable to available anchor points. Additionally, a basic kitchen setup is needed that does not rely on permanent fixtures or expensive equipment.
 
-## Why
+## Implementation Overview
 
-It is hot out. It is sunny. My bike doesn't like the uv. I don't like the uv. I also make stinky food. So I need a tarp protect myself from the heat and a stove to cook.  
+The core of the project is a tarp shelter rigged with a ridge line between two anchor points. The tarp is arranged in an oblong diamond shape to optimize coverage for the specific location. The shelter is secured without stakes by tying grommets to existing structures such as fence posts, a grill, and storm drains.
 
-## Tools and Materials
+The tarp is tensioned using a combination of knots: clove hitches and half hitches on the anchor side, and constrictor knots combined with trucker’s hitches on the opposite side. These choices balance security and ease of adjustment.
 
-* A solid little knife.
-* Some bank line.
-* Any old tarp.
-* A stove.
-* A chair you've picked up off the side of the road.
-* A table.
-* A random bow 
-* Rice cooker.
-* A water boiler
+Midpoint tie-outs extend the tarp’s coverage. In cases of damage, improvised solutions such as fabric balls are used as anchor points.
 
-## Skills
+The outdoor kitchen setup is minimalistic, involving a table (optional), a stove, a rice cooker, and a water boiler. Seating is informal, initially using a found chair or squatting on the ground.
 
-Know how to tie
-* Half hitches.
-* Trucker hitches.
-* Alpine butterflies.
-* Clove hitches.
+## Technical Details
 
+### Knots Used
 
-## Hang your tarp
+- **Clove Hitch**: Used for initial anchor attachment, provides quick and adjustable binding.
+- **Half Hitch**: Secures the clove hitch to prevent slippage.
+- **Trucker’s Hitch**: Provides mechanical advantage for tensioning the ridge line.
+- **Constrictor Knot**: Used on the tensioning side for a secure grip.
+- **Alpine Butterfly**: Mentioned as a skill, likely used for creating mid-line loops.
 
-### Affix a ridge line
+### Materials
 
-Place a ridge line across two points. Make it high and tight. 
+- Tarp with grommets
+- Bank line (strong cordage)
+- Miscellaneous found objects for anchors
+- Basic camping stove and cooking appliances
 
-I tie off the anchor side side with a clove hitch and some half hitches to keep the thing from coming apart. 
+### Setup Steps
 
-The other side I tie off with a constrictor and a truckers hitch. I'll detail that in another post that'll be linked here. 
+1. Establish a high, tight ridge line between two anchor points.
+2. Pull the tarp over the ridge line in an oblong diamond pattern.
+3. Anchor the tarp bottom grommets to fixed structures.
+4. Tie out midpoints to extend coverage.
+5. Arrange kitchen components under the shelter.
 
-## Pull the tarp over the ridge line
+## Practical Considerations
 
-Pull your tarp over the ridge line. There are a ton of variations, but I chose an oblong diamond shaped pattern to better fit my location.
+- The setup avoids reliance on stakes, adapting to urban or constrained environments.
+- Knot selection prioritizes security and adjustability.
+- The tarp shape is customized to site conditions.
+- The kitchen setup is flexible and low-cost.
 
-### Anchor the tarp to the ground
+## Summary
 
-In my case I tied the bottom grommets to the fence posts, a grill, and a water storm drain. These worked for me and did not require any stakes or rocks.
-
-### Tie out the midpoints
-
-My tarp has a few point that I can use to pull middle of the tarp out to extend coverage. Once side broke during a previous storm, so I just put a ball of some fabric in the tarp and tied that off instead. 
-
-
-## Create your kitchen
-
-![kitchen](./photos/kitchen.jpg)
-
-### Put up your table
-
-You don't really need a table. Before I bought one, I just squated on the ground. It wasn't very comfortable, but it was a great workout.  Anyways, you should get a table if you can afford one. 
-
-### Put up your stove
-
-I just have a little jinyu portable stove that I bought years ago for hot pot.  Now I use it as my primary to avoid stinking up my house with curry and five spice powder. 
-
-
-### Set up the Rice Cooker
-
-It is absolutely necessary
-
-
-### Set up the boiler
-
-A water boiler is used to make sure all of the water (especialy the tap water) is clean before drinking or cooking. A few liters a day will be good for you.  
-
-### Organize your things
-
-Just organize all of your things.  Do not leave this place messy. That would be gross. 
-
-## Set up your entrance
-
-### Clothing space
-
-I do not like wearing my dirty chore clothing inside my home. I change right there in my private space into my underwear and hang the dirty clothes up on the fence to air out.  My sun shirts and base layers come in after a few hours. The work jeans and the overalls mostly stay out there until I wash them.
-
-### Shoe space
-
-I take my shoes off when I enter my home.  Its the right way to do it. So keep some sandals for indoors and outdoors ready. Also make sure this space is tidy.
-
-#### That tidy shoe line
-
-![shoes](./photos/shoes.jpg)
+This project serves as a practical guide for creating a functional outdoor living and cooking space using minimal resources. The documentation captures knot techniques, material choices, and layout strategies to facilitate replication or modification in similar contexts.
