@@ -75,6 +75,7 @@ You don't really need a table. Before I bought one, I just squated on the ground
 
 I just have a little jinyu portable stove that I bought years ago for hot pot.  Now I use it as my primary to avoid stinking up my house with curry and five spice powder. 
 
+
 ### Set up the Rice Cooker
 
 It is absolutely necessary
