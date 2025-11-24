@@ -1,12 +1,26 @@
 ---
-slug: "github-making-an-outdoor-living-room"
-title: "making-an-outdoor-living-room"
-repo: "justin-napolitano/making-an-outdoor-living-room"
-githubUrl: "https://github.com/justin-napolitano/making-an-outdoor-living-room"
-generatedAt: "2025-11-23T09:17:06.685857Z"
-source: "github-auto"
+slug: github-making-an-outdoor-living-room
+title: Technical Reference for Building an Outdoor Tarp Living Room Setup
+repo: justin-napolitano/making-an-outdoor-living-room
+githubUrl: https://github.com/justin-napolitano/making-an-outdoor-living-room
+generatedAt: '2025-11-23T09:17:06.685857Z'
+source: github-auto
+summary: >-
+  Detailed guide to constructing a tarp-based outdoor living and cooking space with knot techniques
+  and adaptable shelter designs.
+tags:
+  - outdoor-living
+  - tarp-shelter
+  - camping-kitchen
+  - knots
+  - urban-camping
+seoPrimaryKeyword: outdoor living room
+seoSecondaryKeywords:
+  - tarp shelter
+  - camping knots
+  - outdoor kitchen
+seoOptimized: true
 ---
-
 
 # Making an Outdoor Living Room: Technical Reference
 
