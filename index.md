@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - camping knots
   - outdoor kitchen
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on a practical outdoor living setup involving tarp shelters, knots, and camping
+  kitchen arrangements, aligning closely with the 'Climbing' family's emphasis on documentation
+  related to hiking, climbing, camping, and outdoor gear.
 ---
 
 # Making an Outdoor Living Room: Technical Reference
@@ -77,3 +83,4 @@ The outdoor kitchen setup is minimalistic, involving a table (optional), a stove
 ## Summary
 
 This project serves as a practical guide for creating a functional outdoor living and cooking space using minimal resources. The documentation captures knot techniques, material choices, and layout strategies to facilitate replication or modification in similar contexts.
+
